@@ -104,6 +104,8 @@ The test data for this problem is located at `/workspace/data/080/data_test/`.
 
 ## Submission Requirements
 
+*Final submission*
+
 ### OJ Git Repository Compilation Process
 
 For Git compilation, we will first clone the repository using a command similar to:
